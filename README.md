@@ -1,4 +1,4 @@
-# \ 🦠 COVID Detection App — Control Sanitario Escolar
+# 🦠 COVID Detection App — Control Sanitario Escolar
 
 
 # Aplicación móvil desarrollada en Flutter para evaluar síntomas relacionados con COVID-19 en un entorno escolar.  
