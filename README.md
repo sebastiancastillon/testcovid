@@ -1,4 +1,4 @@
-# \# 🦠 COVID Detection App — Control Sanitario Escolar
+\# 🦠 COVID Detection App — Control Sanitario Escolar
 
 # 
 
@@ -33,12 +33,8 @@
 # ✅ Interfaz en modo oscuro  
 
 # ✅ Navegación por pestañas  
-
-# 
-
-# ---
-
-# 
+
+
 
 # 🧠 Funcionamiento del sistema
 
